@@ -1,2 +1,1 @@
-# qa_awp
- 
+awp - q&a project using MERN stack
