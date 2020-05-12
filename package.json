@@ -1,5 +1,8 @@
 {"name": "qa-mern",
   "version": "1.0.0",
+  "engines": {
+    "node": "12.14.1"
+  },
   "private": true,
   "scripts":
   {
